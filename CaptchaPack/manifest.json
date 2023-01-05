@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Captcha",
+        "name": "CaptchaPack By Zeyroz#0001 & Nyrok",
+        "uuid": "6021deea-a574-49ef-9ff3-1b02fa3b742b",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 1],
+        "vanilla": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "CaptchaPack By Zeyroz#0001 & Nyrok",
+            "type": "resources",
+            "uuid": "c4f20cf7-b646-479d-b130-3732574c50fe",
+            "version": [0, 0, 1]
+        }
+    ]
+}
