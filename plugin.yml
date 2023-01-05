@@ -1,0 +1,8 @@
+name: Captcha
+authors:
+  - Nyrok
+  - Zeyroz
+api: 4.0.0
+main: Captcha\Main
+src-namespace-prefix: Captcha
+version: 1.0.0
